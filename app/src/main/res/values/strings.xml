@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="profile_url"><b>Profile url:</b> %s</string>
+    <string name="repos_url"><b>Repos:</b> %s</string>
+    <string name="org_url"><b>Organizations :</b> %s</string>
+</resources>
